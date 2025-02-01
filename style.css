@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:aquamarine ;
+    padding: 5px;
+    border: 10px solid green;
+    border-radius: 10px;
+}
+
+header a{
+    margin: 20px;
+    text-decoration: none;
+    background-color: black;
+    padding: 5px;
+    color: red;
+}
+
+nav a{
+    background-color: aqua;
+    border: 10px black solid;
+    border-radius: 10px;
+}
+
+nav{
+    padding: 10px;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer p{
+    border: 10px solid green;
+    border-radius: 10px;
+}
+
+footer{
+    border: 10px solid green;
+    border-radius: 10px;
+}
+
+footer img{
+    border: 20px solid black;
+    border-radius: 15px;
+}
